@@ -1,0 +1,61 @@
+employee_id,name,department,role,age,salary,city,work_mode,hire_year,performance_score,years_experience
+E1001,Aisha,Engineering,Software Engineer,23,55000,Washington DC,Remote,2015,3.2,1
+E1002,John,Marketing,ML Engineer,26,62311,New York,Hybrid,2016,3.9,2
+E1003,Sara,Sales,Data Scientist,29,69622,Chicago,On-site,2017,4.6,3
+E1004,Mike,Data,Data Analyst,32,76933,Seattle,Remote,2018,3.5,4
+E1005,Emma,Finance,Backend Engineer,35,84244,Austin,Hybrid,2019,4.2,5
+E1006,David,HR,Marketing Manager,38,91555,Boston,On-site,2020,4.9,6
+E1007,Sophia,Engineering,Account Executive,41,98866,Washington DC,Remote,2021,3.8,7
+E1008,James,Marketing,Financial Analyst,44,106177,New York,Hybrid,2022,4.5,8
+E1009,Olivia,Sales,HR Specialist,47,113488,Chicago,On-site,2023,3.4,9
+E1010,Daniel,Data,Cloud Engineer,25,120799,Seattle,Remote,2024,4.1,10
+E1011,Mia,Finance,Software Engineer,28,128110,Austin,Hybrid,2015,4.8,11
+E1012,Noah,HR,ML Engineer,31,55420,Boston,On-site,2016,3.7,12
+E1013,Isabella,Engineering,Data Scientist,34,62731,Washington DC,Remote,2017,4.4,13
+E1014,Ethan,Marketing,Data Analyst,37,70042,New York,Hybrid,2018,3.3,14
+E1015,Amelia,Sales,Backend Engineer,40,77353,Chicago,On-site,2019,4.0,15
+E1016,Lucas,Data,Marketing Manager,43,84664,Seattle,Remote,2020,4.7,1
+E1017,Harper,Finance,Account Executive,46,91975,Austin,Hybrid,2021,3.6,2
+E1018,Benjamin,HR,Financial Analyst,24,99286,Boston,On-site,2022,4.3,3
+E1019,Evelyn,Engineering,HR Specialist,27,106597,Washington DC,Remote,2023,3.2,4
+E1020,Henry,Marketing,Cloud Engineer,30,113908,New York,Hybrid,2024,3.9,5
+E1021,Luna,Sales,Software Engineer,33,121219,Chicago,On-site,2015,4.6,6
+E1022,Alexander,Data,ML Engineer,36,128530,Seattle,Remote,2016,3.5,7
+E1023,Ella,Finance,Data Scientist,39,55840,Austin,Hybrid,2017,4.2,8
+E1024,Michael,HR,Data Analyst,42,63151,Boston,On-site,2018,4.9,9
+E1025,Camila,Engineering,Backend Engineer,45,70462,Washington DC,Remote,2019,3.8,10
+E1026,William,Marketing,Marketing Manager,23,77773,New York,Hybrid,2020,4.5,11
+E1027,Aria,Sales,Account Executive,26,85084,Chicago,On-site,2021,3.4,12
+E1028,Grace,Data,Financial Analyst,29,92395,Seattle,Remote,2022,4.1,13
+E1029,Matthew,Finance,HR Specialist,32,99706,Austin,Hybrid,2023,4.8,14
+E1030,Chloe,HR,Cloud Engineer,35,107017,Boston,On-site,2024,3.7,15
+E1031,Aisha,Engineering,Software Engineer,38,114328,Washington DC,Remote,2015,4.4,1
+E1032,John,Marketing,ML Engineer,41,121639,New York,Hybrid,2016,3.3,2
+E1033,Sara,Sales,Data Scientist,44,128950,Chicago,On-site,2017,4.0,3
+E1034,Mike,Data,Data Analyst,47,56260,Seattle,Remote,2018,4.7,4
+E1035,Emma,Finance,Backend Engineer,25,63571,Austin,Hybrid,2019,3.6,5
+E1036,David,HR,Marketing Manager,28,70882,Boston,On-site,2020,4.3,6
+E1037,Sophia,Engineering,Account Executive,31,78193,Washington DC,Remote,2021,3.2,7
+E1038,James,Marketing,Financial Analyst,34,85504,New York,Hybrid,2022,3.9,8
+E1039,Olivia,Sales,HR Specialist,37,92815,Chicago,On-site,2023,4.6,9
+E1040,Daniel,Data,Cloud Engineer,40,100126,Seattle,Remote,2024,3.5,10
+E1041,Mia,Finance,Software Engineer,43,107437,Austin,Hybrid,2015,4.2,11
+E1042,Noah,HR,ML Engineer,46,114748,Boston,On-site,2016,4.9,12
+E1043,Isabella,Engineering,Data Scientist,24,122059,Washington DC,Remote,2017,3.8,13
+E1044,Ethan,Marketing,Data Analyst,27,129370,New York,Hybrid,2018,4.5,14
+E1045,Amelia,Sales,Backend Engineer,30,56680,Chicago,On-site,2019,3.4,15
+E1046,Lucas,Data,Marketing Manager,33,63991,Seattle,Remote,2020,4.1,1
+E1047,Harper,Finance,Account Executive,36,71302,Austin,Hybrid,2021,4.8,2
+E1048,Benjamin,HR,Financial Analyst,39,78613,Boston,On-site,2022,3.7,3
+E1049,Evelyn,Engineering,HR Specialist,42,85924,Washington DC,Remote,2023,4.4,4
+E1050,Henry,Marketing,Cloud Engineer,45,93235,New York,Hybrid,2024,3.3,5
+E1051,Luna,Sales,Software Engineer,23,100546,Chicago,On-site,2015,4.0,6
+E1052,Alexander,Data,ML Engineer,26,107857,Seattle,Remote,2016,4.7,7
+E1053,Ella,Finance,Data Scientist,29,115168,Austin,Hybrid,2017,3.6,8
+E1054,Michael,HR,Data Analyst,32,122479,Boston,On-site,2018,4.3,9
+E1055,Camila,Engineering,Backend Engineer,35,129790,Washington DC,Remote,2019,3.2,10
+E1056,William,Marketing,Marketing Manager,38,57100,New York,Hybrid,2020,3.9,11
+E1057,Aria,Sales,Account Executive,41,64411,Chicago,On-site,2021,4.6,12
+E1058,Grace,Data,Financial Analyst,44,71722,Seattle,Remote,2022,3.5,13
+E1059,Matthew,Finance,HR Specialist,47,79033,Austin,Hybrid,2023,4.2,14
+E1060,Chloe,HR,Cloud Engineer,25,86344,Boston,On-site,2024,4.9,15

@@ -1,0 +1,101 @@
+order_id,date,customer_type,city,product,category,quantity,unit_price,discount,revenue,status
+ORD-10001,2026-01-01,Consumer,New York,Laptop Pro,Electronics,1,1299,0.0,1299.0,Completed
+ORD-10002,2026-02-02,Small Business,Chicago,Headphones,Electronics,4,179,0.05,680.2,Completed
+ORD-10003,2026-03-03,Enterprise,Seattle,Keyboard,Electronics,7,119,0.1,749.7,Completed
+ORD-10004,2026-04-04,Consumer,Austin,Office Chair,Furniture,2,349,0.15,593.3,Returned
+ORD-10005,2026-05-05,Small Business,Boston,Standing Desk,Furniture,5,499,0.2,1996.0,Completed
+ORD-10006,2026-06-06,Enterprise,Washington DC,Monitor,Electronics,8,329,0.0,2632.0,Completed
+ORD-10007,2026-07-07,Consumer,New York,Desk Lamp,Home,3,59,0.05,168.15,Completed
+ORD-10008,2026-08-08,Small Business,Chicago,Coffee Maker,Home,6,129,0.1,696.6,Returned
+ORD-10009,2026-09-09,Enterprise,Seattle,Backpack,Accessories,1,89,0.15,75.65,Completed
+ORD-10010,2026-01-10,Consumer,Austin,USB Hub,Electronics,4,69,0.2,220.8,Completed
+ORD-10011,2026-02-11,Small Business,Boston,Laptop Pro,Electronics,7,1299,0.0,9093.0,Completed
+ORD-10012,2026-03-12,Enterprise,Washington DC,Headphones,Electronics,2,179,0.05,340.1,Returned
+ORD-10013,2026-04-13,Consumer,New York,Keyboard,Electronics,5,119,0.1,535.5,Completed
+ORD-10014,2026-05-14,Small Business,Chicago,Office Chair,Furniture,8,349,0.15,2373.2,Completed
+ORD-10015,2026-06-15,Enterprise,Seattle,Standing Desk,Furniture,3,499,0.2,1197.6,Completed
+ORD-10016,2026-07-16,Consumer,Austin,Monitor,Electronics,6,329,0.0,1974.0,Returned
+ORD-10017,2026-08-17,Small Business,Boston,Desk Lamp,Home,1,59,0.05,56.05,Completed
+ORD-10018,2026-09-18,Enterprise,Washington DC,Coffee Maker,Home,4,129,0.1,464.4,Completed
+ORD-10019,2026-01-19,Consumer,New York,Backpack,Accessories,7,89,0.15,529.55,Completed
+ORD-10020,2026-02-20,Small Business,Chicago,USB Hub,Electronics,2,69,0.2,110.4,Returned
+ORD-10021,2026-03-21,Enterprise,Seattle,Laptop Pro,Electronics,5,1299,0.0,6495.0,Completed
+ORD-10022,2026-04-22,Consumer,Austin,Headphones,Electronics,8,179,0.05,1360.4,Completed
+ORD-10023,2026-05-23,Small Business,Boston,Keyboard,Electronics,3,119,0.1,321.3,Completed
+ORD-10024,2026-06-24,Enterprise,Washington DC,Office Chair,Furniture,6,349,0.15,1779.9,Returned
+ORD-10025,2026-07-25,Consumer,New York,Standing Desk,Furniture,1,499,0.2,399.2,Completed
+ORD-10026,2026-08-26,Small Business,Chicago,Monitor,Electronics,4,329,0.0,1316.0,Completed
+ORD-10027,2026-09-27,Enterprise,Seattle,Desk Lamp,Home,7,59,0.05,392.35,Completed
+ORD-10028,2026-01-01,Consumer,Austin,Coffee Maker,Home,2,129,0.1,232.2,Returned
+ORD-10029,2026-02-02,Small Business,Boston,Backpack,Accessories,5,89,0.15,378.25,Completed
+ORD-10030,2026-03-03,Enterprise,Washington DC,USB Hub,Electronics,8,69,0.2,441.6,Completed
+ORD-10031,2026-04-04,Consumer,New York,Laptop Pro,Electronics,3,1299,0.0,3897.0,Completed
+ORD-10032,2026-05-05,Small Business,Chicago,Headphones,Electronics,6,179,0.05,1020.3,Returned
+ORD-10033,2026-06-06,Enterprise,Seattle,Keyboard,Electronics,1,119,0.1,107.1,Completed
+ORD-10034,2026-07-07,Consumer,Austin,Office Chair,Furniture,4,349,0.15,1186.6,Completed
+ORD-10035,2026-08-08,Small Business,Boston,Standing Desk,Furniture,7,499,0.2,2794.4,Completed
+ORD-10036,2026-09-09,Enterprise,Washington DC,Monitor,Electronics,2,329,0.0,658.0,Returned
+ORD-10037,2026-01-10,Consumer,New York,Desk Lamp,Home,5,59,0.05,280.25,Completed
+ORD-10038,2026-02-11,Small Business,Chicago,Coffee Maker,Home,8,129,0.1,928.8,Completed
+ORD-10039,2026-03-12,Enterprise,Seattle,Backpack,Accessories,3,89,0.15,226.95,Completed
+ORD-10040,2026-04-13,Consumer,Austin,USB Hub,Electronics,6,69,0.2,331.2,Returned
+ORD-10041,2026-05-14,Small Business,Boston,Laptop Pro,Electronics,1,1299,0.0,1299.0,Completed
+ORD-10042,2026-06-15,Enterprise,Washington DC,Headphones,Electronics,4,179,0.05,680.2,Completed
+ORD-10043,2026-07-16,Consumer,New York,Keyboard,Electronics,7,119,0.1,749.7,Completed
+ORD-10044,2026-08-17,Small Business,Chicago,Office Chair,Furniture,2,349,0.15,593.3,Returned
+ORD-10045,2026-09-18,Enterprise,Seattle,Standing Desk,Furniture,5,499,0.2,1996.0,Completed
+ORD-10046,2026-01-19,Consumer,Austin,Monitor,Electronics,8,329,0.0,2632.0,Completed
+ORD-10047,2026-02-20,Small Business,Boston,Desk Lamp,Home,3,59,0.05,168.15,Completed
+ORD-10048,2026-03-21,Enterprise,Washington DC,Coffee Maker,Home,6,129,0.1,696.6,Returned
+ORD-10049,2026-04-22,Consumer,New York,Backpack,Accessories,1,89,0.15,75.65,Completed
+ORD-10050,2026-05-23,Small Business,Chicago,USB Hub,Electronics,4,69,0.2,220.8,Completed
+ORD-10051,2026-06-24,Enterprise,Seattle,Laptop Pro,Electronics,7,1299,0.0,9093.0,Completed
+ORD-10052,2026-07-25,Consumer,Austin,Headphones,Electronics,2,179,0.05,340.1,Returned
+ORD-10053,2026-08-26,Small Business,Boston,Keyboard,Electronics,5,119,0.1,535.5,Completed
+ORD-10054,2026-09-27,Enterprise,Washington DC,Office Chair,Furniture,8,349,0.15,2373.2,Completed
+ORD-10055,2026-01-01,Consumer,New York,Standing Desk,Furniture,3,499,0.2,1197.6,Completed
+ORD-10056,2026-02-02,Small Business,Chicago,Monitor,Electronics,6,329,0.0,1974.0,Returned
+ORD-10057,2026-03-03,Enterprise,Seattle,Desk Lamp,Home,1,59,0.05,56.05,Completed
+ORD-10058,2026-04-04,Consumer,Austin,Coffee Maker,Home,4,129,0.1,464.4,Completed
+ORD-10059,2026-05-05,Small Business,Boston,Backpack,Accessories,7,89,0.15,529.55,Completed
+ORD-10060,2026-06-06,Enterprise,Washington DC,USB Hub,Electronics,2,69,0.2,110.4,Returned
+ORD-10061,2026-07-07,Consumer,New York,Laptop Pro,Electronics,5,1299,0.0,6495.0,Completed
+ORD-10062,2026-08-08,Small Business,Chicago,Headphones,Electronics,8,179,0.05,1360.4,Completed
+ORD-10063,2026-09-09,Enterprise,Seattle,Keyboard,Electronics,3,119,0.1,321.3,Completed
+ORD-10064,2026-01-10,Consumer,Austin,Office Chair,Furniture,6,349,0.15,1779.9,Returned
+ORD-10065,2026-02-11,Small Business,Boston,Standing Desk,Furniture,1,499,0.2,399.2,Completed
+ORD-10066,2026-03-12,Enterprise,Washington DC,Monitor,Electronics,4,329,0.0,1316.0,Completed
+ORD-10067,2026-04-13,Consumer,New York,Desk Lamp,Home,7,59,0.05,392.35,Completed
+ORD-10068,2026-05-14,Small Business,Chicago,Coffee Maker,Home,2,129,0.1,232.2,Returned
+ORD-10069,2026-06-15,Enterprise,Seattle,Backpack,Accessories,5,89,0.15,378.25,Completed
+ORD-10070,2026-07-16,Consumer,Austin,USB Hub,Electronics,8,69,0.2,441.6,Completed
+ORD-10071,2026-08-17,Small Business,Boston,Laptop Pro,Electronics,3,1299,0.0,3897.0,Completed
+ORD-10072,2026-09-18,Enterprise,Washington DC,Headphones,Electronics,6,179,0.05,1020.3,Returned
+ORD-10073,2026-01-19,Consumer,New York,Keyboard,Electronics,1,119,0.1,107.1,Completed
+ORD-10074,2026-02-20,Small Business,Chicago,Office Chair,Furniture,4,349,0.15,1186.6,Completed
+ORD-10075,2026-03-21,Enterprise,Seattle,Standing Desk,Furniture,7,499,0.2,2794.4,Completed
+ORD-10076,2026-04-22,Consumer,Austin,Monitor,Electronics,2,329,0.0,658.0,Returned
+ORD-10077,2026-05-23,Small Business,Boston,Desk Lamp,Home,5,59,0.05,280.25,Completed
+ORD-10078,2026-06-24,Enterprise,Washington DC,Coffee Maker,Home,8,129,0.1,928.8,Completed
+ORD-10079,2026-07-25,Consumer,New York,Backpack,Accessories,3,89,0.15,226.95,Completed
+ORD-10080,2026-08-26,Small Business,Chicago,USB Hub,Electronics,6,69,0.2,331.2,Returned
+ORD-10081,2026-09-27,Enterprise,Seattle,Laptop Pro,Electronics,1,1299,0.0,1299.0,Completed
+ORD-10082,2026-01-01,Consumer,Austin,Headphones,Electronics,4,179,0.05,680.2,Completed
+ORD-10083,2026-02-02,Small Business,Boston,Keyboard,Electronics,7,119,0.1,749.7,Completed
+ORD-10084,2026-03-03,Enterprise,Washington DC,Office Chair,Furniture,2,349,0.15,593.3,Returned
+ORD-10085,2026-04-04,Consumer,New York,Standing Desk,Furniture,5,499,0.2,1996.0,Completed
+ORD-10086,2026-05-05,Small Business,Chicago,Monitor,Electronics,8,329,0.0,2632.0,Completed
+ORD-10087,2026-06-06,Enterprise,Seattle,Desk Lamp,Home,3,59,0.05,168.15,Completed
+ORD-10088,2026-07-07,Consumer,Austin,Coffee Maker,Home,6,129,0.1,696.6,Returned
+ORD-10089,2026-08-08,Small Business,Boston,Backpack,Accessories,1,89,0.15,75.65,Completed
+ORD-10090,2026-09-09,Enterprise,Washington DC,USB Hub,Electronics,4,69,0.2,220.8,Completed
+ORD-10091,2026-01-10,Consumer,New York,Laptop Pro,Electronics,7,1299,0.0,9093.0,Completed
+ORD-10092,2026-02-11,Small Business,Chicago,Headphones,Electronics,2,179,0.05,340.1,Returned
+ORD-10093,2026-03-12,Enterprise,Seattle,Keyboard,Electronics,5,119,0.1,535.5,Completed
+ORD-10094,2026-04-13,Consumer,Austin,Office Chair,Furniture,8,349,0.15,2373.2,Completed
+ORD-10095,2026-05-14,Small Business,Boston,Standing Desk,Furniture,3,499,0.2,1197.6,Completed
+ORD-10096,2026-06-15,Enterprise,Washington DC,Monitor,Electronics,6,329,0.0,1974.0,Returned
+ORD-10097,2026-07-16,Consumer,New York,Desk Lamp,Home,1,59,0.05,56.05,Completed
+ORD-10098,2026-08-17,Small Business,Chicago,Coffee Maker,Home,4,129,0.1,464.4,Completed
+ORD-10099,2026-09-18,Enterprise,Seattle,Backpack,Accessories,7,89,0.15,529.55,Completed
+ORD-10100,2026-01-19,Consumer,Austin,USB Hub,Electronics,2,69,0.2,110.4,Returned

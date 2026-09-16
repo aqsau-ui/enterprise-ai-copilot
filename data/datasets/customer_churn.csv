@@ -1,0 +1,101 @@
+customer_id,plan,region,tenure_months,monthly_fee,support_tickets,complaints,satisfaction_score,payment_method,churn,email
+C20001,Basic,East,1,39,0,0,,Credit Card,Yes,
+C20002,Standard,West,6,59,3,1,3.2,Bank Transfer,No,customer2@example.com
+C20003,Premium,North,11,89,6,2,3.9,PayPal,No,customer3@example.com
+C20004,Basic,South,16,39,9,3,4.6,Credit Card,No,customer4@example.com
+C20005,Standard,East,21,59,0,4,2.7,Bank Transfer,No,customer5@example.com
+C20006,Premium,West,26,89,3,5,3.4,PayPal,No,customer6@example.com
+C20007,Basic,North,31,39,6,0,4.1,Credit Card,No,customer7@example.com
+C20008,Standard,South,36,59,9,1,4.8,Bank Transfer,Yes,customer8@example.com
+C20009,Premium,East,41,89,0,2,2.9,PayPal,No,customer9@example.com
+C20010,Basic,West,46,39,3,3,3.6,Credit Card,No,customer10@example.com
+C20011,Standard,North,51,59,6,4,4.3,Bank Transfer,No,customer11@example.com
+C20012,Premium,South,56,89,9,5,5.0,PayPal,No,customer12@example.com
+C20013,Basic,East,61,39,0,0,3.1,Credit Card,No,customer13@example.com
+C20014,Standard,West,66,59,3,1,3.8,Bank Transfer,Yes,customer14@example.com
+C20015,Premium,North,71,89,6,2,4.5,PayPal,Yes,customer15@example.com
+C20016,Basic,South,4,39,9,3,2.6,Credit Card,No,customer16@example.com
+C20017,Standard,East,9,59,0,4,3.3,Bank Transfer,No,customer17@example.com
+C20018,Premium,West,14,89,3,5,4.0,PayPal,No,
+C20019,Basic,North,19,39,6,0,4.7,Credit Card,No,customer19@example.com
+C20020,Standard,South,24,59,9,1,,Bank Transfer,No,customer20@example.com
+C20021,Premium,East,29,89,0,2,3.5,PayPal,No,customer21@example.com
+C20022,Basic,West,34,39,3,3,4.2,Credit Card,Yes,customer22@example.com
+C20023,Standard,North,39,59,6,4,4.9,Bank Transfer,No,customer23@example.com
+C20024,Premium,South,44,89,9,5,3.0,PayPal,No,customer24@example.com
+C20025,Basic,East,49,39,0,0,3.7,Credit Card,No,customer25@example.com
+C20026,Standard,West,54,59,3,1,4.4,Bank Transfer,No,customer26@example.com
+C20027,Premium,North,59,89,6,2,2.5,PayPal,Yes,customer27@example.com
+C20028,Basic,South,64,39,9,3,3.2,Credit Card,No,customer28@example.com
+C20029,Standard,East,69,59,0,4,3.9,Bank Transfer,Yes,customer29@example.com
+C20030,Premium,West,2,89,3,5,4.6,PayPal,No,customer30@example.com
+C20031,Basic,North,7,39,6,0,2.7,Credit Card,No,customer31@example.com
+C20032,Standard,South,12,59,9,1,3.4,Bank Transfer,No,customer32@example.com
+C20033,Premium,East,17,89,0,2,4.1,PayPal,No,customer33@example.com
+C20034,Basic,West,22,39,3,3,4.8,Credit Card,No,customer34@example.com
+C20035,Standard,North,27,59,6,4,2.9,Bank Transfer,No,
+C20036,Premium,South,32,89,9,5,3.6,PayPal,Yes,customer36@example.com
+C20037,Basic,East,37,39,0,0,4.3,Credit Card,No,customer37@example.com
+C20038,Standard,West,42,59,3,1,5.0,Bank Transfer,No,customer38@example.com
+C20039,Premium,North,47,89,6,2,,PayPal,No,customer39@example.com
+C20040,Basic,South,52,39,9,3,3.8,Credit Card,Yes,customer40@example.com
+C20041,Standard,East,57,59,0,4,4.5,Bank Transfer,No,customer41@example.com
+C20042,Premium,West,62,89,3,5,2.6,PayPal,No,customer42@example.com
+C20043,Basic,North,67,39,6,0,3.3,Credit Card,Yes,customer43@example.com
+C20044,Standard,South,72,59,9,1,4.0,Bank Transfer,No,customer44@example.com
+C20045,Premium,East,5,89,0,2,4.7,PayPal,No,customer45@example.com
+C20046,Basic,West,10,39,3,3,2.8,Credit Card,No,customer46@example.com
+C20047,Standard,North,15,59,6,4,3.5,Bank Transfer,No,customer47@example.com
+C20048,Premium,South,20,89,9,5,4.2,PayPal,No,customer48@example.com
+C20049,Basic,East,25,39,0,0,4.9,Credit Card,No,customer49@example.com
+C20050,Standard,West,30,59,3,1,3.0,Bank Transfer,Yes,customer50@example.com
+C20051,Premium,North,35,89,6,2,3.7,PayPal,No,customer51@example.com
+C20052,Basic,South,40,39,9,3,4.4,Credit Card,No,
+C20053,Standard,East,45,59,0,4,2.5,Bank Transfer,Yes,customer53@example.com
+C20054,Premium,West,50,89,3,5,3.2,PayPal,No,customer54@example.com
+C20055,Basic,North,55,39,6,0,3.9,Credit Card,No,customer55@example.com
+C20056,Standard,South,60,59,9,1,4.6,Bank Transfer,No,customer56@example.com
+C20057,Premium,East,65,89,0,2,2.7,PayPal,Yes,customer57@example.com
+C20058,Basic,West,70,39,3,3,,Credit Card,No,customer58@example.com
+C20059,Standard,North,3,59,6,4,4.1,Bank Transfer,No,customer59@example.com
+C20060,Premium,South,8,89,9,5,4.8,PayPal,No,customer60@example.com
+C20061,Basic,East,13,39,0,0,2.9,Credit Card,No,customer61@example.com
+C20062,Standard,West,18,59,3,1,3.6,Bank Transfer,No,customer62@example.com
+C20063,Premium,North,23,89,6,2,4.3,PayPal,No,customer63@example.com
+C20064,Basic,South,28,39,9,3,5.0,Credit Card,Yes,customer64@example.com
+C20065,Standard,East,33,59,0,4,3.1,Bank Transfer,No,customer65@example.com
+C20066,Premium,West,38,89,3,5,3.8,PayPal,Yes,customer66@example.com
+C20067,Basic,North,43,39,6,0,4.5,Credit Card,No,customer67@example.com
+C20068,Standard,South,48,59,9,1,2.6,Bank Transfer,No,customer68@example.com
+C20069,Premium,East,53,89,0,2,3.3,PayPal,No,
+C20070,Basic,West,58,39,3,3,4.0,Credit Card,No,customer70@example.com
+C20071,Standard,North,63,59,6,4,4.7,Bank Transfer,Yes,customer71@example.com
+C20072,Premium,South,68,89,9,5,2.8,PayPal,No,customer72@example.com
+C20073,Basic,East,1,39,0,0,3.5,Credit Card,No,customer73@example.com
+C20074,Standard,West,6,59,3,1,4.2,Bank Transfer,No,customer74@example.com
+C20075,Premium,North,11,89,6,2,4.9,PayPal,No,customer75@example.com
+C20076,Basic,South,16,39,9,3,3.0,Credit Card,No,customer76@example.com
+C20077,Standard,East,21,59,0,4,,Bank Transfer,No,customer77@example.com
+C20078,Premium,West,26,89,3,5,4.4,PayPal,Yes,customer78@example.com
+C20079,Basic,North,31,39,6,0,2.5,Credit Card,Yes,customer79@example.com
+C20080,Standard,South,36,59,9,1,3.2,Bank Transfer,No,customer80@example.com
+C20081,Premium,East,41,89,0,2,3.9,PayPal,No,customer81@example.com
+C20082,Basic,West,46,39,3,3,4.6,Credit Card,No,customer82@example.com
+C20083,Standard,North,51,59,6,4,2.7,Bank Transfer,No,customer83@example.com
+C20084,Premium,South,56,89,9,5,3.4,PayPal,No,customer84@example.com
+C20085,Basic,East,61,39,0,0,4.1,Credit Card,Yes,customer85@example.com
+C20086,Standard,West,66,59,3,1,4.8,Bank Transfer,No,
+C20087,Premium,North,71,89,6,2,2.9,PayPal,No,customer87@example.com
+C20088,Basic,South,4,39,9,3,3.6,Credit Card,No,customer88@example.com
+C20089,Standard,East,9,59,0,4,4.3,Bank Transfer,No,customer89@example.com
+C20090,Premium,West,14,89,3,5,5.0,PayPal,No,customer90@example.com
+C20091,Basic,North,19,39,6,0,3.1,Credit Card,No,customer91@example.com
+C20092,Standard,South,24,59,9,1,3.8,Bank Transfer,Yes,customer92@example.com
+C20093,Premium,East,29,89,0,2,4.5,PayPal,No,customer93@example.com
+C20094,Basic,West,34,39,3,3,2.6,Credit Card,No,customer94@example.com
+C20095,Standard,North,39,59,6,4,3.3,Bank Transfer,No,customer95@example.com
+C20096,Premium,South,44,89,9,5,,PayPal,No,customer96@example.com
+C20097,Basic,East,49,39,0,0,4.7,Credit Card,No,customer97@example.com
+C20098,Standard,West,54,59,3,1,2.8,Bank Transfer,No,customer98@example.com
+C20099,Premium,North,59,89,6,2,3.5,PayPal,Yes,customer99@example.com
+C20100,Basic,South,64,39,9,3,4.2,Credit Card,No,customer100@example.com
